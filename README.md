@@ -21,6 +21,16 @@ EDA invovles expolring the data to answer key questions, such as:
 - Secondary KPI'S
   Total Casualties with respect to vehicle type
   1. Monthly trend showing comparison of casualties for current year and previous year
-  2. Maximum casuality by roaf type
+  2. Maximum casuality by road type
   3. Distribution of total casualties by road type
   4. Relation between Casualties by Area / Location & by Day / Night
+
+### Data Visualization
+ In this phase creating Dashboard by using charts for Data visualization
+ - Charts
+   Donut Chart, Time Line, Slicer, TreeMap Chart.
+
+### Results / Findings
+ 
+
+     
