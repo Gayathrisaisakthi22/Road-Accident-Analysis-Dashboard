@@ -3,6 +3,9 @@
 ### Project Overview
 Develop an interactive dashboard to Analyze Road Accident data and identify trends and patterns between 2021 and 2022.
 
+<img width="502" alt="Road Accident Analysis Dashboard Model" src="https://github.com/Gayathrisaisakthi22/Road-Accident-Analysis-Dashboard/assets/159177772/2f31f020-d6b4-4aa4-bec3-86b7b5dede7f">
+
+
 
 ### Data Sources
 Road Accident Data: The primary dataset used for this analysis is the "roadaccident_data.csv" file, containing detailed information about each accident.
