@@ -44,6 +44,10 @@ EDA invovles expolring the data to answer key questions, such as:
 - More no. of accidents were happened in November month.
 - Concluding that Slight Accidents are higher when compared to Fatal & Serious Accidents.
 
+### Recommandations
+- Build a "oneway street road" type can aviod accidents.
+- Avoid driving on wet road surface.
+
 
  
 
