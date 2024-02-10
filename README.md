@@ -14,3 +14,13 @@ In the Initial Data prepation phase, performed the following tasks Data loading 
 
 ### Exploratory Data Analysis (EDA)
 EDA invovles expolring the data to answer key questions, such as:
+- Primary KPI
+  Total Casualties taken place after the accident
+- Primary KPI'S
+  Total Casualties & percentage of total with respect to accident severity and maximum casuality by type of vehicle
+- Secondary KPI'S
+  Total Casualties with respect to vehicle type
+  1. Monthly trend showing comparison of casualties for current year and previous year
+  2. Maximum casuality by roaf type
+  3. Distribution of total casualties by road type
+  4. Relation between Casualties by Area / Location & by Day / Night
