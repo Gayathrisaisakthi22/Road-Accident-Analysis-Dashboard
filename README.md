@@ -3,9 +3,9 @@
 
 ### Table of Contents
 
-- [Project Overview] (#Project Overview)
-- [Data Sources] (#Data Sources)
-- [Recommendations] (#Recommendations)
+- [Project Overview](#Project-overview)
+- [Data Sources](#Data-sources)
+- [Recommendations](#Recommendations)
 
 ### Project Overview
 Develop an interactive dashboard to Analyze Road Accident data and identify trends and patterns between 2021 and 2022.
