@@ -32,10 +32,10 @@ EDA invovles expolring the data to answer key questions, such as:
    Donut Chart, Time Line, Slicer, TreeMap Chart.
 
 ### Results / Findings
-Casualities is drecresed in the year 2022 while compared with 2021.
-Urban Area faced lots accidents compared with Rural Area.
-Lots of accident happend in the November month only.
-In this Analysis found that slight severity.
+- Casualities is drecresed in the year 2022 while compared with 2021.
+- Urban Area faced lots accidents compared with Rural Area.
+- Lots of accident happend in the November month only.
+- In this Analysis found that slight severity.
 
 
  
